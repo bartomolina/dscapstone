@@ -1,0 +1,55 @@
+# Flatiron Data Science Bootcamp - Capstone
+
+* Student name: **Barto Molina**
+* Student pace: **part time**
+* Scheduled project review date/time: **TBD**
+* Instructor name: **Victor Geislinger**
+* Blog post URL: [TBD](TBD)
+
+## Deliverables
+
+- [Jupyter Notebook](student.ipynb)
+- [Presentation](presentation.pdf)
+- Blog post: [TBD](TBD)
+- [Video walkthrough](TBD)
+---
+
+## 0. References
+trashnet    
+https://github.com/garythung/trashnet/
+
+Waste-Sorter  
+https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478
+
+Kaggle dataset  
+https://www.kaggle.com/asdasdasasdas/garbage-classification
+
+## 1. Introduction
+Waste categorization is usually confusing and have some problems: sometimes we don't correctly put the trash in the correct recycling bins, other times we're not even sure if the recycling trash ends up actually going to the recycling facilities (link to video). To help classifying the trash into the correct recycling category, we'll build a trash classifier to classify the trash into one of the recycling categories: cardboard, glass, metal, paper, plastic, trash.
+
+There are other projects that have done this already:
+
+Google TPU
+
+CNN
+
+
+## 2. The dataset
+
+
+
+## 3. Methodology
+1. trashnet:  
+Using LUA / Torch
+
+2. trashnet
+pytorch
+fastai
+torchvision resnet34
+
+## 4. Conclusions
+
+
+
+## 5. Future work
+
